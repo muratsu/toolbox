@@ -1,0 +1,1 @@
+powershell.exe -Command "Enable-NetAdapter * -Confirm:$false"

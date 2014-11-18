@@ -1,0 +1,1 @@
+powershell.exe -Command "Disable-NetAdapter * -Confirm:$false"
