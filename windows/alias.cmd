@@ -11,3 +11,5 @@ DOSKEY c=cd c:\
 DOSKEY d=cd c:\dev
 DOSKEY g=cd c:\git
 DOSKEY gs=git status
+DOSKEY backlog=start "" chrome "aka.ms/cordovabacklog"
+DOSKEY jira=start "" chrome "aka.ms/cordovajira"
