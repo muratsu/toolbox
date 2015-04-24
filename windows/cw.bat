@@ -1,0 +1,1 @@
+cordova platform rm windows && cordova platform add ..\cordova-windows
